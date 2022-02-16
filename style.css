@@ -73,7 +73,7 @@ nav ul li{
     bottom:0px;
     
     height: 130px;
-    background-color: rgb(93, 180, 119);
+    background-color: rgb(18, 19, 18);
     color: white;
     display: flex;
     justify-content: center;
@@ -81,6 +81,7 @@ nav ul li{
     flex-direction: column; 
     padding:0px;
     border: 2px solid #e9f3599c;
+    box-shadow:  0 0 5px 5px rgb(245, 16, 8);
   }
     
 
